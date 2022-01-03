@@ -1,0 +1,21 @@
+h1{
+    color: darkorchid;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    padding-top: 15%;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -2%;
+}
+.git{
+    color: #ffffff;
+    background-color: darkorchid;
+}
+.cr{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px 650px;
+}
